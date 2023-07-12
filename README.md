@@ -7,15 +7,8 @@ This repository contains the code and analysis for the Enron email classificatio
 ## Author
 - Name: Oluyori Oluwagbemiga Benjamin
 
-
 ## Project Overview
 The Enron email dataset is a collection of emails from the Enron corporation, manually classified as spam and non-spam. This project aims to develop a classification model that can accurately classify emails as spam or non-spam.
-
-## Project Structure
-The project is structured as follows:
-- `data/`: This directory contains the Enron email dataset in txt format.
-- `code/`: This directory contains the Python code for data preparation, exploratory data analysis, feature extraction, and 
-- `README.md`: This file provides an overview of the project and instructions for reproducing the experiments.
 
 ## Data Preparation
 The Enron email dataset consists of 1,500 spam and 3,672 ham emails in txt format. The data preparation step involves reading and preprocessing the text files, creating a data frame, removing unnecessary prefixes, handling duplicates, and splitting the dataset into training and test sets.
