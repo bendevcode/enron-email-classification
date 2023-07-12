@@ -14,8 +14,7 @@ The Enron email dataset is a collection of emails from the Enron corporation, ma
 ## Project Structure
 The project is structured as follows:
 - `data/`: This directory contains the Enron email dataset in txt format.
-- `code/`: This directory contains the Python code for data preparation, exploratory data analysis, feature extraction, and model training and evaluation.
-- `results/`: This directory contains the results and visualizations generated during the analysis.
+- `code/`: This directory contains the Python code for data preparation, exploratory data analysis, feature extraction, and 
 - `README.md`: This file provides an overview of the project and instructions for reproducing the experiments.
 
 ## Data Preparation
